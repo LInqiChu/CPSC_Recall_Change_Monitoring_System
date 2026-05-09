@@ -1,0 +1,39 @@
+CPSC Recall Monitoring Final Summary
+================================================================================
+
+Best Method: contrastive_adaptive_rag
+
+Evaluation Scores:
+- final_recall_coverage: 0.9375
+- final_recall_precision: 0.6522
+- final_recall_f1: 0.7692
+- final_cu_weighted_coverage: 0.9375
+- final_grounding_rate: 1.0000
+
+================================================================================
+
+Final Summary:
+
+Contrastive adaptive recall watchlist:
+- Recall 26-418: Casely Wireless Portable Power Banks — newly added recall. Hazard: The recalled lithium-ion battery can overheat and ignite, posing a risk of serious injury or death from fire and burn hazards. Action required: Consumers should immediately stop using the recalled power banks and contact Casely for a free replacement.
+- Recall 26-401: Male-to-Male Extension Cords — newly added recall. Hazard: The exposed prongs can become energized, posing a risk of serious injury and death from electrocution. Action required: Consumers should stop using the recalled extension cords immediately and contact Shenzhen Shijingjie Network Technology for a full refund.
+- Recall 26-379: HTRC and Haisito Battery Chargers — newly added recall. Hazard: The chargers can ignite or cause a connected battery to ignite, posing a fire hazard. Action required: Consumers should immediately stop using the recalled chargers and contact Huizhou Haitan Technology for instructions on returning the chargers for a full refund.
+- Recall 26-331: BUILT LUUM Tumblers — newly added recall. Hazard: The LED tumblers can break, making button cell batteries accessible to children, posing choking and ingestion hazards. Action required: Consumers should stop using the recalled tumblers immediately and contact Lifetime Brands for a full refund.
+- Recall 26-344: Sunnyyes LED Mini Lights — newly added recall. Hazard: The lights contain lithium coin batteries that can be accessed easily by children, posing an ingestion hazard. Action required: Consumers should stop using the recalled LED lights immediately and contact Sunnyyes for a full refund.
+- Recall 26-398: ShymeryDirect LED Lights — newly added recall. Hazard: The lights contain lithium coin batteries that can be accessed easily by children, posing an ingestion hazard. Action required: Consumers should immediately stop using the recalled LED lights and contact Shymery for a full refund.
+- Recall 26-403: Happiness Light LED Lights — newly added recall. Hazard: The lights contain lithium coin batteries that can be accessed easily by children, posing an ingestion hazard. Action required: Consumers should stop using the recalled LED lights immediately and contact Happiness Light for a full refund.
+- Recall 26-348: FUNTOK 24V 2-Seater Ride-On Trucks — newly added recall. Hazard: The truck’s circuit board can overheat and ignite, posing fire and burn hazards. Action required: Consumers should stop using the recalled ride-on truck immediately and contact Shenzhen Luobei Trading Co. for a full refund.
+- Recall 26-434: Autobrush Sonic Pro Kids Toothbrush Boxes — newly added recall. Hazard: The boxes contain a lithium coin battery that can be accessed by children, posing an ingestion hazard. Action required: Consumers should stop using the boxes immediately and contact Autobrush for a $5 refund.
+- Recall 26-424: LED Finger Beam Lights — newly added recall. Hazard: The toys contain button cell batteries that can be accessed easily by children, posing an ingestion hazard. Action required: Consumers should stop using the LED Finger Beam Lights immediately and contact ZMC Group for a full refund.
+- Recall 26-428: Lil' Buddies Pet Laser Toy — newly added recall. Hazard: The battery compartment is not secure, making button cell batteries easily accessible to children, posing an ingestion hazard. Action required: Consumers should stop using the recalled pet toys and contact JC Sales for a full refund.
+- Recall 18-040: Change: modified. Fields: Description | Remedy.
+- Recall 25-157: Change: modified. Fields: Remedy | Remedy Type.
+- Recall 09-195: Change: modified. Fields: Description | Hazard Description | Importers | Incidents | Manufactured In | Name of product | Remedy | Remedy Type | Units.
+- Recall 08-565: Change: modified. Fields: Description | Hazard Description | Importers | Incidents | Manufactured In | Name of product | Remedy | Remedy Type | Units. Additional evidence-backed recall changes:
+- Recall 08-570: Change: modified. Fields: Description | Hazard Description | Incidents | Manufactured In | Name of product | Remedy | Remedy Type | Units. Previously Remedy: ; now: Consumers should stop using these recalled ATVs immediately and contact any Honda ATV dealer to make an appointment for a free repair. Registered owners of the .
+- Recall 26-389: Silks Recall Children’s Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Flammability Standards for Children’s Sleepwear. Hazard: The recalled children’s loungewear violates mandatory flammability standards for children’s sleepwear, posing a risk of serious injuries or deadly burn hazards to children. Action required: Consumers should immediately stop using the recalled loungewear, take it away from children and contact Silks for a full refund or store credit.
+- Recall 26-346: Change: added.
+- Recall 26-396: Change: added.
+- Recall 26-369: Change: added.
+- Recall 26-317: Change: added.
+- Recall 26-291: Change: modified. Fields: Hazard Description. Previously Hazard Description: The magnetic stick figure toy sets violate&nbsp;https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1250… mandatory standard for toys because the; now: The magnetic stick figure toy sets violate&nbsp;https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1250… mandatory standard for toys because the.

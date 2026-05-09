@@ -1,0 +1,37 @@
+[
+  {
+    "route_label": "new_high_risk",
+    "count": 91,
+    "top_recalls": [
+      "26-418",
+      "26-401",
+      "26-379"
+    ],
+    "top_fields": [],
+    "avg_priority": 210.05
+  },
+  {
+    "route_label": "consumer_action_update",
+    "count": 320,
+    "top_recalls": [
+      "18-040",
+      "25-157"
+    ],
+    "top_fields": [
+      "Remedy",
+      "Description"
+    ],
+    "avg_priority": 170.2
+  },
+  {
+    "route_label": "metadata_or_context_update",
+    "count": 1,
+    "top_recalls": [
+      "21-081"
+    ],
+    "top_fields": [
+      "Description"
+    ],
+    "avg_priority": 53.85
+  }
+]

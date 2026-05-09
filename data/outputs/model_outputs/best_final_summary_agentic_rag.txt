@@ -1,0 +1,18 @@
+CPSC Recall Monitoring Final Summary
+================================================================================
+
+Best Method: agentic_rag
+
+Evaluation Scores:
+- final_recall_coverage: 0.8125
+- final_recall_precision: 0.6842
+- final_recall_f1: 0.7429
+- final_cu_weighted_coverage: 0.8125
+- final_grounding_rate: 1.0000
+
+================================================================================
+
+Final Summary:
+
+- Recall 26-418: Added to new high-risk category; involves Casely Wireless Portable Power Banks due to fire and burn hazards. - Recall 26-401: Added to new high-risk category; involves Shenzhen Shijingjie Network Technology Male-to-Male Extension Cords due to electrocution and carbon monoxide poisoning hazards. - Recall 26-379: Added to new high-risk category; involves HTRC and Haisito T400 Battery Chargers due to fire hazards. - Recall 26-344: Added to new high-risk category; involves Sunnyyes LED Mini Lights due to battery ingestion hazards. - Recall 26-348: Added to new high-risk category; involves FUNTOK 24V 2-Seater Ride-On Trucks due to fire hazards. - Recall 26-434: Added to new high-risk category; involves Autobrush Sonic Pro Kids Toothbrush Boxes due to battery ingestion hazards. - Recall 26-398: Added to new high-risk category; involves ShymeryDirect LED Lights due to battery ingestion hazards. - Recall 26-403: Added to new high-risk category; involves Happiness Light LED Lights due to battery ingestion hazards. - Recall 26-424: Added to new high-risk category; involves ZMC Group LED Finger Beam Lights due to battery ingestion hazards. - Recall 26-428: Added to new high-risk category; involves JC Sales Lil' Buddies Pet Laser Toys due to battery ingestion hazards. - Recall 26-389: Added to new high-risk category; involves Silks Children’s Loungewear Sets due to burn hazards. - Recall 26-396: Added to new high-risk category; involves Besslly Halloween Pumpkin Carving Kits due to battery ingestion hazards. - Recall 26-369: Added to new high-risk category; involves Coluans Christmas Light-Up Rings due to battery ingestion hazards. - Recall 18-040: Modified; IKEA MALM chests and dressers recall now includes updated remedy options and descriptions. - Recall 25-157: Modified; Triangle Tube gas boilers recall now states no remedy available due to company closure. - Recall 09-195: Modified; Tupperware maracas recall now includes updated remedy and hazard descriptions. - Recall 08-565: Modified; SoleusAir space heaters recall now includes updated hazard descriptions and remedy instructions. - Recall 08-570: Modified; Honda ATV recall now includes updated remedy and hazard descriptions.
+- Recall 26-331: Change: added.

@@ -1,0 +1,17 @@
+﻿change_unit_id,Recall Number,change_type,changed_field,importance_score,route_label,route_priority,old_value,new_value,gold_include_in_summary,importance,annotator_1_label,annotator_2_label
+cu_00068,26-418,added,,49.5,new_high_risk,227.05,,,1,high,1,1
+cu_00055,26-401,added,,44.5,new_high_risk,211.15,,,1,high,1,1
+cu_00038,26-379,added,,40.5,new_high_risk,200.35,,,1,high,1,1
+cu_00012,26-331,added,,41.5,new_high_risk,198.25,,,1,high,1,1
+cu_00056,26-403,added,,39.5,new_high_risk,197.65,,,1,high,1,1
+cu_00053,26-398,added,,39.5,new_high_risk,197.65,,,1,high,1,1
+cu_00022,26-344,added,,39.5,new_high_risk,197.65,,,1,high,1,1
+cu_00026,26-348,added,,40.5,new_high_risk,196.75,,,1,high,1,1
+cu_00024,26-346,added,,41.5,new_high_risk,191.05,,,1,high,1,1
+cu_00031,26-369,added,,36.5,new_high_risk,189.55,,,1,high,1,1
+cu_00046,26-389,added,,36.5,new_high_risk,189.55,,,1,high,1,1
+cu_00003,26-317,added,,36.5,new_high_risk,189.55,,,1,high,1,1
+cu_00030,26-368,added,,36.5,new_high_risk,189.55,,,1,high,1,0
+cu_00078,26-428,added,,36.5,new_high_risk,189.55,,,1,high,1,0
+cu_00051,26-396,added,,36.5,new_high_risk,189.55,,,1,high,1,0
+cu_00074,26-424,added,,36.5,new_high_risk,189.55,,,1,high,1,0

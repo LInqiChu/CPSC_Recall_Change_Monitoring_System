@@ -1,0 +1,69 @@
+{
+  "usage": {
+    "prompt_tokens": 3491,
+    "completion_tokens": 750,
+    "total_tokens": 4241,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "method_scores": [
+    {
+      "method": "contrastive_adaptive_rag",
+      "meta_score": 0.8688,
+      "final_recall_f1": 0.7692,
+      "final_recall_coverage": 0.9375,
+      "final_recall_precision": 0.6522,
+      "final_cu_weighted_coverage": 0.9375,
+      "final_grounding_rate": 1.0,
+      "final_route_coverage_rate": 1.0
+    },
+    {
+      "method": "agentic_rag",
+      "meta_score": 0.8309,
+      "final_recall_f1": 0.7179,
+      "final_recall_coverage": 0.875,
+      "final_recall_precision": 0.6087,
+      "final_cu_weighted_coverage": 0.875,
+      "final_grounding_rate": 1.0,
+      "final_route_coverage_rate": 1.0
+    },
+    {
+      "method": "rag",
+      "meta_score": 0.7498,
+      "final_recall_f1": 0.6286,
+      "final_recall_coverage": 0.6875,
+      "final_recall_precision": 0.5789,
+      "final_cu_weighted_coverage": 0.6875,
+      "final_grounding_rate": 1.0,
+      "final_route_coverage_rate": 1.0
+    },
+    {
+      "method": "prompt_only",
+      "meta_score": 0.7204,
+      "final_recall_f1": 0.6154,
+      "final_recall_coverage": 0.5,
+      "final_recall_precision": 0.8,
+      "final_cu_weighted_coverage": 0.5,
+      "final_grounding_rate": 1.0,
+      "final_route_coverage_rate": 1.0
+    }
+  ],
+  "best_methods": [
+    "contrastive_adaptive_rag",
+    "agentic_rag"
+  ],
+  "included_methods": [
+    "prompt_only",
+    "rag",
+    "agentic_rag",
+    "contrastive_adaptive_rag"
+  ]
+}

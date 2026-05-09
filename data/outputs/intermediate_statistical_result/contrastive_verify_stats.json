@@ -1,0 +1,17 @@
+{
+  "verify_total_bullets": 12,
+  "verify_keep_false_original": 0,
+  "verify_keep_false_ratio_original": 0.0,
+  "verify_kept_after_relax": 12,
+  "verify_removed_after_relax": 0,
+  "verify_removed_ratio_after_relax": 0.0,
+  "verify_overall_verdict_counts": {
+    "fully_supported": 12
+  },
+  "raw_unique_recalls": 16,
+  "final_unique_recalls": 23,
+  "selected_recalls_n": 16,
+  "evidence_rows_n": 24,
+  "v71_before_unique_recalls": 25,
+  "v71_after_unique_recalls": 23
+}
