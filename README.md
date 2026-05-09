@@ -9,7 +9,7 @@ Key contributions:
 - A robust pipeline for change detection in structured recall datasets
 - **Contrastive Adaptive RAG (CARAG)**: A change-aware retrieval-augmented generation method that leverages structured old/new value pairs to produce high-quality, fact-grounded summaries
 - A multi-dimensional evaluation framework with a human-annotated gold standard for reliable performance comparison across baselines
-
+- This work is the first to introduce large language models (LLMs) for automated summarization of CPSC product recall change tasks. We establish a simple prompt-only paradigm as a strong baseline for fair and standardized downstream evaluation.
 ---
 
 ## 📂 Repository Structure
